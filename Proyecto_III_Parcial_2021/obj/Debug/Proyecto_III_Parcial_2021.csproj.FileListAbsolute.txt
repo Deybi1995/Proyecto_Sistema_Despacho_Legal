@@ -1,0 +1,27 @@
+C:\Users\roy\Desktop\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\bin\Debug\Proyecto_III_Parcial_2021.exe.config
+C:\Users\roy\Desktop\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\bin\Debug\Proyecto_III_Parcial_2021.exe
+C:\Users\roy\Desktop\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\bin\Debug\Proyecto_III_Parcial_2021.pdb
+C:\Users\roy\Desktop\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.csproj.AssemblyReference.cache
+C:\Users\roy\Desktop\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.csproj.SuggestedBindingRedirects.cache
+C:\Users\roy\Desktop\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.Properties.Resources.resources
+C:\Users\roy\Desktop\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.csproj.GenerateResource.cache
+C:\Users\roy\Desktop\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.csproj.CoreCompileInputs.cache
+C:\Users\roy\Desktop\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.exe
+C:\Users\roy\Desktop\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.pdb
+C:\Users\roy\Desktop\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.Login.resources
+C:\Users\roy\Desktop\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.Menu.resources
+C:\Users\roy\Desktop\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.RegistroJuicio.resources
+C:\Users\roy\Desktop\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.Facturación.resources
+C:\Users\ROY\Downloads\Proyecto Lenguaje 3\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\bin\Debug\Proyecto_III_Parcial_2021.exe.config
+C:\Users\ROY\Downloads\Proyecto Lenguaje 3\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\bin\Debug\Proyecto_III_Parcial_2021.exe
+C:\Users\ROY\Downloads\Proyecto Lenguaje 3\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\bin\Debug\Proyecto_III_Parcial_2021.pdb
+C:\Users\ROY\Downloads\Proyecto Lenguaje 3\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.csprojAssemblyReference.cache
+C:\Users\ROY\Downloads\Proyecto Lenguaje 3\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.Facturación.resources
+C:\Users\ROY\Downloads\Proyecto Lenguaje 3\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.RegistroJuicio.resources
+C:\Users\ROY\Downloads\Proyecto Lenguaje 3\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.Login.resources
+C:\Users\ROY\Downloads\Proyecto Lenguaje 3\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.Menu.resources
+C:\Users\ROY\Downloads\Proyecto Lenguaje 3\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.Properties.Resources.resources
+C:\Users\ROY\Downloads\Proyecto Lenguaje 3\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.csproj.GenerateResource.cache
+C:\Users\ROY\Downloads\Proyecto Lenguaje 3\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.csproj.CoreCompileInputs.cache
+C:\Users\ROY\Downloads\Proyecto Lenguaje 3\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.exe
+C:\Users\ROY\Downloads\Proyecto Lenguaje 3\Proyecto_Sistema_Despacho_Legal\Proyecto_III_Parcial_2021\obj\Debug\Proyecto_III_Parcial_2021.pdb
